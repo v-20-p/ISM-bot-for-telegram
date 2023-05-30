@@ -1,0 +1,7 @@
+pip install json 
+pip install telebot
+pip install decouple 
+pip install googletrans 
+pip install requests
+
+get api from botfather
